@@ -133,7 +133,7 @@ node liri.js spotify-this-song '<song name here>'
 This will show the following information about the song in your terminal/bash window
 
 
-Artist(s)
+A-rtist(s)
 The song's name
 A preview link of the song from Spotify
 The album that the song is from
@@ -152,7 +152,7 @@ Step Four: On the next screen, scroll down to where you see your client id and c
 
 node liri.js movie-this '<movie name here>'
 
-
+http://www.omdbapi.com/?apikey=[yourkey]&
 This will output the following information to your terminal/bash window:
 
    * Title of the movie.
@@ -164,12 +164,12 @@ This will output the following information to your terminal/bash window:
    * Plot of the movie.
    * Actors in the movie.
 
-😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖😖
-If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-😢 😤😢 😤😩😢 😤😩😢 😤😩😢 😤😩😢😤😩😢😤😩😢 😤😩😢😤😩😢 
-If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/😢 😤😩😢 😤😩😢 😤😩
 
-It's on Netflix!😢 😤😩😢 😤😩😢 😤😩
+If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/
+
+It's on Netflix!
 
 
 You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use trilogy.
@@ -177,34 +177,37 @@ You'll use the axios package to retrieve data from the OMDB API. Like all of the
 node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-😢 😤😩😢 😤😩😢 😤😩😢 😤😩😢😤😩😢😤😩😢😤😩😢😤😩😢😤😩😢
-It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.😤😩😢😤😩😢😤😩😢😤😩😢😤😩😢
-Edit the text in random.txt to test out the feature for movie-this and concert-this.😤😩😢😤😩😢😤😩😢😤😩😢😤😩😢
+
+It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
+
+Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
 
-BONUS🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+BONUS
+
+
 
 
 In addition to logging the data to your terminal/bash window,output the data to a .txt file called log.txt.
-Make sure you append each command you run to the log.txt file. 🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+Make sure you append each command you run to the log.txt file.  
 Do not overwrite your file each time you run a command.
-🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+ 
 
-Reminder: Submission on BCS🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+Reminder: Submission on BCS 
 
 Please submit the link to the Github Repository!
 
 Minimum Requirements
 
 Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as well as adding this homework to your portfolio are required as well and more information can be found below.
-🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+ 
 Create a README.md
-🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+ 
 Add a README.md to your repository describing the project. Here are some resources for creating your README.md. Here are some resources to help you along the way:
-🤪🤪🤪🤪🤪🤪🤪🤪
+ 
 About READMEs
 Mastering Markdown
-🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+ 
 Add To Your Portfolio😔😔😔😔😔😔😔
 🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
 After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.😔😔😔😔😔😔😔😔😔😔😔
