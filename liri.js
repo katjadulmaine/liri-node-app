@@ -31,10 +31,11 @@ function work() {
 function concertSearch() {
     axios.get("https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp")
         .then(function (response) {
+            console.log("The artist(s) that is playing: " + response.data[0].lineup)
             console.log("Name of the venue is: " + response.data[0].venue.name)
             console.log("The venue location is: " + response.data[0].venue.city + ", " + response.data[0].venue.region)
             console.log("Date of the venue: " + (moment(response.data[0].datetime).format("MM/DD/YYYY")) + "\n-----------------------------------------")
-
+            
         })
         .catch(function (error) {
             console.log(error)
