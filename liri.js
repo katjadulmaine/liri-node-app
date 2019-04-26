@@ -45,15 +45,14 @@ function concertSearch() {
 
 
 function songSearch() {
-    if (search === undefined) {
-        search = "The Sign";
+    if (search === "") {
+        search = "The Sign Ace of Base";
     }
     spotify.search({ type: 'track', query: search }, function (error, response) {
         if (error) {
           return console.log(error);
         }
-
-        console.log("Artist: " + response.tracks.items[0].artists);
+        console.log("Artist: " + response.tracks.items[0].artists[0].name);
         console.log("Track: " + response.tracks.items[0].name);
         console.log("Album: " + response.tracks.items[0].album.name);
         console.log("Preview link: " + response.tracks.items[0].href + "\n-----------------------------------------");;;
@@ -61,8 +60,8 @@ function songSearch() {
 }
 
 
-function movieSearch() {
-    if (search === undefined) {
+function movieSearch () {
+    if (search === "") {
         search = "Mr. Nobody";
     }
     axios.get("http://www.omdbapi.com/?t=" + search + "&apikey=trilogy")
@@ -70,7 +69,7 @@ function movieSearch() {
             console.log("Title of the Movie: " + response.data.Title);
             console.log("Year the movie came out: " + response.data.Year);
             console.log("IMDB Rating of the movie: " + response.data.imdbRating);
-            console.log("Rotten Tomatoes Rating of the Movie: " + response.data.Ratings[0].value);
+            console.log("Rotten Tomatoes Rating of the Movie: " + response.data.Ratings[1].Value);
             console.log("Country where the movie was produced: " + response.data.Country);
             console.log("Language of the Movie: " + response.data.Language);
             console.log("Plot of the Movie: " + response.data.Plot);
