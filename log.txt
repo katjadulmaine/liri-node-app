@@ -94,3 +94,18 @@ Track: I Want It That Way
 Album: The Hits--Chapter One
 Preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
 -----------------------------------------
+The artist(s) that is playing: Tame Impala
+Name of the venue is: Ascend Amphitheater
+The venue location is: Nashville, TN
+Date of the venue: 05/02/2019
+-----------------------------------------
+The artist(s) that is playing: Tim McGraw
+Name of the venue is: iHeart Country Festival
+The venue location is: Austin, TX
+Date of the venue: 05/04/2019
+-----------------------------------------
+The artist(s) that is playing: Tame Impala
+Name of the venue is: Ascend Amphitheater
+The venue location is: Nashville, TN
+Date of the venue: 05/02/2019
+-----------------------------------------

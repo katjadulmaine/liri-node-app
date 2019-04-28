@@ -30,6 +30,9 @@ function work() {
 }
 
 function concertSearch() {
+    if (search === "") {
+        search = "Tame Impala";
+    }
     axios.get("https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp")
         .then(function (response) {
             console.log("The artist(s) that is playing: " + response.data[0].lineup);
