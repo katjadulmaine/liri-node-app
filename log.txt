@@ -1,0 +1,96 @@
+The artist(s) that is playing: Tame Impala
+Name of the venue is: Ascend Amphitheater
+The venue location is: Nashville, TN
+Date of the venue: 05/02/2019
+-----------------------------------------
+The artist(s) that is playing: Sting
+Name of the venue is: State Farm Arena
+The venue location is: Hidalgo, TX
+Date of the venue: 05/10/2019
+-----------------------------------------
+The artist(s) that is playing: NF
+Name of the venue is: Bunbury Music Festival
+The venue location is: Cincinnati, OH
+Date of the venue: 05/31/2019
+-----------------------------------------
+The artist(s) that is playing: Tim McGraw
+Name of the venue is: iHeart Country Festival
+The venue location is: Austin, TX
+Date of the venue: 05/04/2019
+-----------------------------------------
+Artist: The Fray
+Track: Love Don't Die
+Album: Helios
+Preview link: https://api.spotify.com/v1/tracks/6IDDwI0YOCAUDhMZltQekS
+-----------------------------------------
+Artist: Ed Sheeran
+Track: Dive
+Album: ÷ (Deluxe)
+Preview link: https://api.spotify.com/v1/tracks/51ChrwmUPDJvedPQnIU8Ls
+-----------------------------------------
+Artist: Rob Thomas
+Track: Ever the Same
+Album: Something To Be
+Preview link: https://api.spotify.com/v1/tracks/02acUMylPHMjJ9miDc9b38
+-----------------------------------------
+Artist: Lupe Fiasco
+Track: Battle Scars
+Album: Food & Liquor II: The Great American Rap Album Pt. 1
+Preview link: https://api.spotify.com/v1/tracks/1hWYT0w2R0J19rlVkiez7X
+-----------------------------------------
+Artist: Ace of Base
+Track: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview link: https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+-----------------------------------------
+Title of the Movie: Braveheart
+Year the movie came out: 1995
+IMDB Rating of the movie: 8.4
+Rotten Tomatoes Rating of the Movie: 77%
+Country where the movie was produced: USA, Ireland
+Language of the Movie: English, French, Latin, Scottish Gaelic, Italian
+Plot of the Movie: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+Actors in the Movie: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+-----------------------------------------
+Title of the Movie: Brave
+Year the movie came out: 2012
+IMDB Rating of the movie: 7.1
+Rotten Tomatoes Rating of the Movie: 79%
+Country where the movie was produced: USA, UK
+Language of the Movie: English
+Plot of the Movie: Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
+Actors in the Movie: Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters
+-----------------------------------------
+Title of the Movie: The Patriot
+Year the movie came out: 2000
+IMDB Rating of the movie: 7.2
+Rotten Tomatoes Rating of the Movie: 61%
+Country where the movie was produced: USA, Germany
+Language of the Movie: English
+Plot of the Movie: Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.
+Actors in the Movie: Mel Gibson, Heath Ledger, Joely Richardson, Jason Isaacs
+-----------------------------------------
+Title of the Movie: Star Wars: Episode IV - A New Hope
+Year the movie came out: 1977
+IMDB Rating of the movie: 8.6
+Rotten Tomatoes Rating of the Movie: 93%
+Country where the movie was produced: USA
+Language of the Movie: English
+Plot of the Movie: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors in the Movie: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+-----------------------------------------
+Title of the Movie: Mr. Nobody
+Year the movie came out: 2009
+IMDB Rating of the movie: 7.8
+Rotten Tomatoes Rating of the Movie: 67%
+Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the Movie: English, Mohawk
+Plot of the Movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the Movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------------
+spotify-this-song
+"I Want it That Way"Artist: Backstreet Boys
+Track: I Want It That Way
+Album: The Hits--Chapter One
+Preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+-----------------------------------------
